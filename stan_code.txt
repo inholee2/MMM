@@ -1,1 +1,1 @@
-https://colab.research.google.com/github/innosoft21/workspace/blob/main/stan/stan_mmm1.ipynb
+https://colab.research.google.com/github/innosoft21/workspace/blob/main/stan/stan_mmm1.ipynb#scrollTo=reSjT2Dk-69y
